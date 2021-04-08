@@ -14,10 +14,10 @@
 		"postcss": "^8.2.9",
 		"postcss-cli": "^8.3.1",
 		"postcss-import": "^14.0.1",
-		"tailwindcss": "^2.0.4"
+		"tailwindcss": "^2.1.1"
 	},
 	"devDependencies": {
 		"hugo-extended": "^0.82.0",
-		"npm-check-updates": "^11.3.0"
+		"npm-check-updates": "^11.4.1"
 	}
 }

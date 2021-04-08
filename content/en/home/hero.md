@@ -17,7 +17,7 @@ hero_media = "/img/portrat.png"
 	# The text of the button
   label = "Know more"
 	# Primary color
-	primary = true
+	# primary = true
 
 [[btn]]
   url = "#contact"
@@ -25,7 +25,10 @@ hero_media = "/img/portrat.png"
 
 +++
 
-# Hello..
+# Hello World
 
-About me section.
-
+My name is Avni Sharma.
+I am an Open Source contributor and I love all things cloud native.
+I love exploring new technology and I try to get a "bit wiser" each day.
+I have a passion for technology, its value to organizations and the purposes that drive them.
+My interests are blogging, mentoring, giving talks and attending conferences, travelling and connecting with people.
