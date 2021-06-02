@@ -21,7 +21,7 @@
     "clean": "gatsby clean",
     "prepare": "husky install",
     "lint-staged": "lint-staged",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/Avni-Sharma/Avni-Sharma.github.io.git"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
