@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/avni-sharma.github.io",
   siteMetadata: {
     title: 'Avni Sharma',
     description: 'Avni Sharma is an Open Source contributor and now a graduate student',
