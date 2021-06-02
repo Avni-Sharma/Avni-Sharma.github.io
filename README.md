@@ -1,6 +1,7 @@
 ## Personal Website
 
-Hello World! This is my first iteration of my website.
+Hello World! This is the first iteration of my website.
+The website is a mini portfolio and I look forward in adding more content.
 
 ## 🛠 Installation & Set Up
 
